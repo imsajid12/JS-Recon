@@ -49,7 +49,7 @@ pip3 install jsbeautifier
 No installation required. Clone the repo and run directly:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/js-recon.git
+git clone https://github.com/imsajid12/js-recon.git
 cd js-recon
 python3 js_recon.py -h
 ```
